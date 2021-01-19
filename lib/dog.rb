@@ -1,10 +1,10 @@
 class Dog
   def name=(dog)
-    @doggy = dog
+    @name = dog
   end
 
   def name
-    @doggy
+    @name
   end
 
   def breed=(brd)
